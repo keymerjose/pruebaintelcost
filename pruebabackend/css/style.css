@@ -1,0 +1,14 @@
+.card_bienes{
+    width: 500px;
+    height: 230px;
+    margin-top: 10px;
+}
+
+.card_bienes p{
+    width: 400px;
+}
+
+.card_bienes img{
+    float: left;
+    margin-right: 10px;
+}

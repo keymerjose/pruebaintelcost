@@ -1,0 +1,15 @@
+#vistas, #likes{
+    font-size: 20px;
+}
+
+@media (max-width: 767px){
+    .jumbotron img{
+        width: 20%;
+    }
+}
+
+@media (max-width: 520px){
+    .jumbotron img{
+        width: 10%;
+    }
+}
